@@ -1,1 +1,0 @@
-AzCopy /Source:C:\Users\krishna\Desktop  /Dest:https://storagekrish.blob.core.windows.net/blobkrish /DestKey:WKcmlk6SwhMcksNaJIs69K1+2MoS9Y7olmlnx7aLD8H2bHrcnOf7e3hDMh47x7izTCIDakUXpca+iyXLP9eFww== /Pattern:all-groups.csv
